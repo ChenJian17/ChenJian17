@@ -4,7 +4,7 @@ I'm ChenJian,Bachelor of Science in Computer Science,2 years'work experience in 
 
 - ⚒️ Java Coder, a little bit Python/Vue
 - 🌱 Learning algorithm and competitive programming
-- 📦 want to make some contributions and share some thougs
+- 📦 want to make some contributions and share some thoughts
 - 📫 How to reach me: gouchen2@protonmail.com
 
 
