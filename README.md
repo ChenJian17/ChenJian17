@@ -3,6 +3,7 @@
 I'm ChenJian,Bachelor of Science in Computer Science,2 years'work experience in software development area.
 
 - ⚒️ Java Coder, a little bit Python/Vue
+- 🔭 Working on the cloud computing Department
 - 🌱 Learning algorithm and competitive programming
 - 📦 want to make some contributions and share some thoughts
 - 📫 How to reach me: gouchen2@protonmail.com
